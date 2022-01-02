@@ -7,7 +7,7 @@
             background: linear-gradient(to left, #070108, #23032e);
             color: turquoise;
             /* color: rgb(6, 195, 253); */
-            overflow-x:none;
+            overflow-x:hidden;
 
         }
       
